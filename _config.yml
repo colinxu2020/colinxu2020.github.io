@@ -88,7 +88,7 @@ google_analytics:
 
 utteranc:
   repo: colinxu2020/colinxu2020.github.io# Your github repo path, also see: https://utteranc.es
-  issue-term: "pathname"
+  issue-term: pathname
 
 #
 # !! 以下所有设置都不需要更改 !!
