@@ -6,7 +6,7 @@ author: Colinxu2020
 tags: [category]
 comments: false
 toc: false
-pinned: false
+pinned: true
 ---
 点击此处一键进入科普新闻板块！
 <!-- more -->
